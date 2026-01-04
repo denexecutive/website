@@ -8100,3 +8100,40 @@ h7-tabs-ul > li > div {
     display: block !important;
   }
 }
+
+.flier-section {
+  background-color: #f9fafb;
+}
+
+.flier-image {
+  width: 100%;
+  border-radius: 18px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.flier-content {
+  padding-left: 20px;
+}
+
+.flier-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.flier-text {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 18px;
+}
+
+.flier-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 25px;
+}
+
+.flier-list li {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
