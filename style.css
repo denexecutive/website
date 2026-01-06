@@ -8137,3 +8137,47 @@ h7-tabs-ul > li > div {
   margin-bottom: 8px;
   font-weight: 500;
 }
+
+
+.video-text-section {
+  background-color: #f9fafb;
+}
+
+.video-text-content {
+  padding-right: 25px;
+}
+
+.video-title {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.video-text {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 18px;
+}
+
+.video-features {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 25px;
+}
+
+.video-features li {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.video-wrapper {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.promo-video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
